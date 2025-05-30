@@ -33,7 +33,7 @@ Busco constantemente evoluir como profissional de tecnologia, aliando meus conhe
 
 ## 🛜 Redes Sociais | Redes Sociales | Social Media
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maria-eduarda-cardoso-freire-7a1989292/)  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)]( https://discord.gg/fcENpZkF)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](email:eduardacarf2004@gmail.com)  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561991739367)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maria-eduarda-cardoso-freire-7a1989292/)  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)]( https://discord.gg/fcENpZkF)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardacarf2004@gmail.com)  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561991739367)
 
 
 ---
